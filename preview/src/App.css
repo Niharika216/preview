@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+form{
+  display: inline-block;
+  width: 500px;
+  border: 2px black solid;
+  background-color: aquamarine;
+}
+
+label{
+  width: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.profile{
+  width: 100px;
+  height: 100px;
+  object-fit: fill;
+}
